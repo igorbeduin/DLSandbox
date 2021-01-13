@@ -1,4 +1,4 @@
-""" File responsible for aggregate the data used for tests/training.
+""" Module responsible for aggregate the data used for tests/training.
 If some dataset is used, it's specific class (with all the necessary preprocessing)
 shall be done here and ready for use.
 """
